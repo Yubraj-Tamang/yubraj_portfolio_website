@@ -40,6 +40,7 @@ This website is designed with a **Neo Minimal Tech** aesthetic:
 - Google Fonts (`Roboto`, `Inter`)  
 - Icons (optional: Font Awesome or SVGs)
 
+
 ---
 
 ## Feel free to contribute or suggest improvements to this project!
